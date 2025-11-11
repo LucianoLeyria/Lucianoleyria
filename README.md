@@ -1,46 +1,51 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">, I'm Luciano Leyria 💻</h1>
- <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/lucianoleyria/">
-    <img src="https://img.shields.io/badge/linkedin-lucianoleyria-blue">
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucianoleyria/">
+    <img src="https://img.shields.io/badge/linkedin-lucianoleyria-blue" alt="LinkedIn">
   </a>
-  
+  &nbsp;
   <a href="https://www.instagram.com/lucholeyria/">
-    <img src="https://img.shields.io/badge/instagram-lucholeyria_-red">
+    <img src="https://img.shields.io/badge/instagram-lucholeyria_-red" alt="Instagram">
   </a>
 </p>
 
-<h3 align="center">A passionate web developer from Argentina, Buenos Aires </h3>
+<h3 align="center">A passionate web developer from Buenos Aires, Argentina 🇦🇷</h3>
 
-<h4> I'm a web developer and I love work in front end </h4>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=Lucianoleyria alt=sachinverma53121/></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px">
+</p>
 
-<img  padding="200px" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="300px" >
+---
 
 - ⚡ I'm currently **Using Siebel CRM**
-- 🌱 I’m currently learning ... **JavaScript and React** 
+- 🌱 I’m currently learning **JavaScript and React** 
 - ❤️ I love **Web Development**
-- ⚡ I like **Football ⚽** 
-- 📫 How to contact me **leyrialu@gmail.com**
+- ⚽ I like **Football**
+- 📫 Contact me at **leyrialu@gmail.com**
 
-<h3>My portfolio: https://luciano-leyria.vercel.app/</h3>
+---
 
-<h4>Main Programming Languages/Libraries: </h4>
-
-<p align="left">
-  <img style="margin: auto;" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt=nodejs width="100" height="70"/>
+<h3 align="center">🌐 My portfolio:</h3>
+<p align="center">
+  <a href="https://luciano-leyria.vercel.app/">https://luciano-leyria.vercel.app/</a>
 </p>
 
+---
 
+<h3 align="center">💻 Main Programming Languages & Libraries:</h3>
 
-<h4>Skills and Tools: </h4>
-<p align="left">
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/html5.png" alt=html5 width="60" height="60"/> 
-	<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/css3.png" alt=css3 width="60" height="60"/> 
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/js.png" alt=javascript width="60" height="60"/>
-<img style="margin: auto;" src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt=webpack width="60" height="60"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/npm.png" alt=npm width="60" height="60"/>
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/express.png" alt=express width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/redux.png" alt=redux width="60" height="60"/> 
-<img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/git.png" alt=git width="60" height="60"/>
-  <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/github.png" alt=github width="60" height="60"/>
-	
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="SQL Database" width="60" height="60"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Lucianoleyria&label=Profile%20views&color=0e75b6&style=flat" alt="Lucianoleyria" />
+</p>

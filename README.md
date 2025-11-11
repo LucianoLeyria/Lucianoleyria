@@ -18,11 +18,14 @@
 
 ---
 
-- ⚡ I'm currently **Using Siebel CRM**
-- 🌱 I’m currently learning **JavaScript and React** 
-- ❤️ I love **Web Development**
-- ⚽ I like **Football**
-- 📫 Contact me at **leyrialu@gmail.com**
+<p align="center">
+  ⚡ I'm currently working with <b>Siebel CRM</b><br>
+  🌱 Learning and improving my skills in <b>JavaScript</b> and <b>React</b><br>
+  💻 Focused on moving into <b>Backend Development</b> with <b>Node.js</b>, <b>Java</b> or <b>.NET</b><br>
+  ❤️ I love <b>Web Development</b><br>
+  ⚽ Passionate about <b>Football</b><br>
+  📫 Contact me at <b>leyrialu@gmail.com</b>
+</p>
 
 ---
 
